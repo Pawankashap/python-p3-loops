@@ -55,4 +55,5 @@ integers and returns the list of squared elements.
 */
 function square_integers(int_list){
   return int_list.map((num) => Math.pow(num, 2) )
+  
 }
